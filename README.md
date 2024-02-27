@@ -1,4 +1,4 @@
-### 👋 Hi I'm Patrice 🤘
+### 👋 `RGB(0,255,0)`Hi I'm Patrice 🤘
 <p>Welcome to my page! </br> I'm Patrice, C# developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toulouse, France</b></p>
 RGB(0,255,0)<h3>`RGB(0,255,0)`Things I code with</h3>
 <p>
