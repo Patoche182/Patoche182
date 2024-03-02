@@ -2,7 +2,7 @@
 <p>Welcome to my page! </br> I'm Patrice, C# developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toulouse, France</b></p>
 <h3>Things I code with</h3>
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%20Sharp-magenta">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-.NET-magenta">
   <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Label-lime?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black"> -->
 
 <!--
