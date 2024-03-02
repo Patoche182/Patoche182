@@ -3,7 +3,7 @@
 <h3>Things I code with</h3>
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-C%20Sharp-magenta">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Label-lime?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black">
+  <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Label-lime?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black"> -->
 
 <!--
 **Patoche182/Patoche182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
