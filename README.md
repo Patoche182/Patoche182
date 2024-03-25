@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Patrice ! 🤘
-<p>Welcome to my page! </br>I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toulouse,</b> and I trying to be a Software Engineer in C#.NET</p>
+### 👋 Hi, Welcome to my page! 🤘
+<p>I'm Patrice, </br>I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toulouse,</b> and I trying to be a Software Engineer in C#.NET</p>
 <h3>Things I code with</h3>
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-.NET-magenta">
