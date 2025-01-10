@@ -5,7 +5,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-.NET-magenta">
 <!--
 ## 🚀💻 Technologies & Tools
-
+<!--
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Csharp](https://img.shields.io/badge/Csharp-.NET-brightgreen?style=flat-square&logo=Csharp)
@@ -23,7 +23,7 @@
 
   <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Label-lime?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black"> -->
 
-
+<!--
 **Patoche182/Patoche182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
